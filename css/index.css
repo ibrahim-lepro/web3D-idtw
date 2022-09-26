@@ -90,7 +90,7 @@ body{
     height: 50vh;
     width: 50vh;
     left:0px;
-    top:35vw;
+    top:37vw;
     position: absolute;
 }
 #btn_right
@@ -98,7 +98,7 @@ body{
     height: 50vh;
     width: 50vh;
     right:0px;
-    top: 35vw;
+    top: 37vw;
     position: absolute;
 }
 .left
@@ -155,14 +155,14 @@ body{
         float:none;
     }
     .left{
-        margin-top: 55vh;
+        margin-top: 70vh;
         float: none;
         width:7vw;
         height:8vw;
         
     }
     .right{
-        margin-top: 55vh;
+        margin-top: 70vh;
         float: none;
         right:0vw;
         width:7vw;
