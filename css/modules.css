@@ -1,0 +1,49 @@
+body,html
+{
+ margin:0;
+ padding:0;
+ font-family: "Lucida Grande", "Lucida sans unicode", "Lucida sans", "DeJavu sans", verdana, "sans-serif";
+ box-sizing:border-box;
+}
+body{
+    background-color: #074F39;
+}
+#nameModule{
+    color: black;
+    background-color: white;
+}
+#Web3D{
+    font-size: 34px;  
+    padding-top: 0em;
+}
+#matiere{
+    text-align: center; 
+    font-size: 34px;  
+    padding-top: 0em;
+}
+.elts{
+    text-align: left;
+    font-size: 34px;
+    color: white;
+    margin: auto;
+    top: 50px;
+    position: relative;
+}  
+.liens:hover{
+    background-color: black;
+}
+.liens:active{
+    color: blue;
+}
+
+@media only screen and (max-width:768px) {
+    #matiere{
+        text-align: center;
+        font-size: 24px;  
+        padding-top: 0em;
+    }
+}
+/*
+.liens:active{
+color: #074F39;
+}*/
